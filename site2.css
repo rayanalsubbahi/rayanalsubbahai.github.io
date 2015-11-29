@@ -1,0 +1,28 @@
+body {
+    font-family: "Times New Roman;
+    font-size: 16px;
+    background-color: dimgrey; 
+    color: #FF00FF;
+    padding: 16px;
+}
+
+#main {
+    padding: 16px;
+    padding-left:  15px;
+    padding-right: 15px;
+    background-color: #80ff00;
+    border-radius: 0 0 16px 16px;
+}
+
+h1 {
+    font-family: "Comic Sans MS;
+    border-bottom: 16x solid #cc9900;
+    color:#3B0B0B;
+    font-size: 30px;
+}
+h5 {
+    font-family: "Comic Sans MS;
+    border-bottom: 16x solid #cc9900;
+    color:#3B0B0B;
+    font-size: 30px;
+}

@@ -1,0 +1,19 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+  <title>Careers</title>
+  <meta charset="UTF-8">
+  <link href="site.css" rel="stylesheet">
+</head>
+
+<body>
+
+<div id="main">
+<footer id="foot01"></footer>
+</div>
+
+<script src="script.js"></script>
+
+</body>
+</html>
